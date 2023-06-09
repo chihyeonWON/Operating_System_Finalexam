@@ -14,8 +14,19 @@ offset = 1224-1024 = 200
 
 2페이지, offset = 200
 ```
+## External Fragmentation
 ![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/393e6a9f-29f6-4f6e-b4bc-864ba50b7315)
 ![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/03ac06a0-593e-4209-89f1-613f283bcbfd)
 
+## Segementation Logical Address to Physical Address
 ![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/28d27f7f-00b0-4914-b686-26bd7e396042)
 ![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/68503b24-6511-407a-ad3e-9582fdcc5d0e)
+
+## FIFO Algorithm
+![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/486abdc4-d641-463f-b7ce-0bcf9533cd4a)
+
+## LRU Algorithm
+![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/c54e34aa-b3c7-41bf-88f0-43dc31a23079)
+
+## Working Set
+![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/a0abd111-f0c9-4561-b7cc-33c0bba5b4d5)
