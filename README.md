@@ -16,3 +16,6 @@ offset = 1224-1024 = 200
 ```
 ![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/393e6a9f-29f6-4f6e-b4bc-864ba50b7315)
 ![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/03ac06a0-593e-4209-89f1-613f283bcbfd)
+
+![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/28d27f7f-00b0-4914-b686-26bd7e396042)
+![image](https://github.com/chihyeonWON/Operating_System_Finalexam/assets/58906858/68503b24-6511-407a-ad3e-9582fdcc5d0e)
